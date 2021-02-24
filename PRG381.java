@@ -9,5 +9,7 @@ public class PRG381
         //comment
         //comment
         //comment
+        //comment 4
+        System.out.println("My second program on Git");
     }
 }
